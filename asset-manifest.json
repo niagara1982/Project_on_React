@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/niagara1982/Project_on_React.git/static/css/main.13662c81.css",
-    "main.js": "/niagara1982/Project_on_React.git/static/js/main.c5d0b3e3.js",
-    "static/media/Person-tablet.png": "/niagara1982/Project_on_React.git/static/media/Person-tablet.2ff25cac54e8f9a895ac.png",
-    "static/media/Person.png": "/niagara1982/Project_on_React.git/static/media/Person.94b4d86031c8fbcf4544.png",
-    "static/media/Cover-2.png": "/niagara1982/Project_on_React.git/static/media/Cover-2.5c2cb2cff74f46679628.png",
-    "static/media/Symbol.png": "/niagara1982/Project_on_React.git/static/media/Symbol.a1d3474ea24f48740609.png",
-    "index.html": "/niagara1982/Project_on_React.git/index.html",
-    "main.13662c81.css.map": "/niagara1982/Project_on_React.git/static/css/main.13662c81.css.map",
-    "main.c5d0b3e3.js.map": "/niagara1982/Project_on_React.git/static/js/main.c5d0b3e3.js.map"
+    "main.css": "/Project_on_React/static/css/main.cb1a4a56.css",
+    "main.js": "/Project_on_React/static/js/main.c5d0b3e3.js",
+    "static/media/Person-tablet.png": "/Project_on_React/static/media/Person-tablet.2ff25cac54e8f9a895ac.png",
+    "static/media/Person.png": "/Project_on_React/static/media/Person.94b4d86031c8fbcf4544.png",
+    "static/media/Cover-2.png": "/Project_on_React/static/media/Cover-2.5c2cb2cff74f46679628.png",
+    "static/media/Symbol.png": "/Project_on_React/static/media/Symbol.a1d3474ea24f48740609.png",
+    "index.html": "/Project_on_React/index.html",
+    "main.cb1a4a56.css.map": "/Project_on_React/static/css/main.cb1a4a56.css.map",
+    "main.c5d0b3e3.js.map": "/Project_on_React/static/js/main.c5d0b3e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.13662c81.css",
+    "static/css/main.cb1a4a56.css",
     "static/js/main.c5d0b3e3.js"
   ]
 }
